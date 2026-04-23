@@ -13,7 +13,7 @@ LIENS = {
     "PV Réunion":           "https://www.appsheet.com/start/5831d236-411a-4075-a476-ea344331ae42",
 
     "Suivi des Stocks":     "...",
-    "Fiche Technique":      "...",
+    "PV chantier":      "https://www.appsheet.com/start/e30222d7-774b-4b6a-ab27-a37e0f4add7c",
     "Rapport Journalier":   "...",
     "Planning Équipe":      "https://docs.google.com/spreadsheets/d/1e2p8CJMdUEkjLa6y-fBONHiFrybwyxRknOeDwkYuH0g/edit?gid=2073079878#gid=2073079878",
     "Demande de Congé":     "...",
